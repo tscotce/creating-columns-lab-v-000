@@ -55,7 +55,8 @@ img:hover {
 .small::after {width: 100%;
   height: 100%;
   content: "";
-  
+  clear: both;
+  display: table;
 }
 .med {width: 150%;
   height: 150%;
