@@ -50,7 +50,7 @@ img:hover {
 .column {display: list-item;
   margin: 0 auto;
   width: 33%;
-  float: left;
+  /*float: left;*/
 }
 
 /* create your tile classes! we recommend .small .med .large */
